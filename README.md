@@ -4,16 +4,15 @@
 
 **Open** is a **free React / Next.js landing page template built with Tailwind CSS** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
 
-Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
 
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
+Created and maintained with ❤️ by ismail enniou
 
 *Version 1.0.0 built with the Cruip CSS is available [here](https://github.com/cruip/open-react-template/releases/tag/1.0.0).*
 *Version 2.0.3 built with Tailwind CSS and React + Vite is available [here](https://github.com/cruip/open-react-template/releases/tag/2.0.3).*
 
 ## Live demo
 
-Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
+Check the live demo here 👉️ 
 
 ## Open PRO
 
